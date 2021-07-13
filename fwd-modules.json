@@ -1,3 +1,4 @@
 {
-  "pm": "VK-FWD/PackageManager"
+  "pm": "VK-FWD/PackageManager",
+  "sample": "VK-FWD/Sample-Module"
 }
