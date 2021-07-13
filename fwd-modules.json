@@ -1,3 +1,4 @@
 {
-  "sample": "VK-FWD/Sample-Module"
+  "sample": "VK-FWD/Sample-Module",
+  "eval": "VK-FWD/Eval-Module"
 }
