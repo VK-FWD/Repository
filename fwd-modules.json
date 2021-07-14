@@ -1,4 +1,5 @@
 {
   "sample": "VK-FWD/Sample-Module",
-  "eval": "VK-FWD/Eval-Module"
+  "eval": "VK-FWD/Eval-Module",
+  "templates": "VK-FWD/Templates-Module"
 }
